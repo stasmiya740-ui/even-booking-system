@@ -53,14 +53,14 @@ The project focuses on clean UI design and smooth user experience.
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/yourusername  
+- GitHub: https://github.com/stasmiya740-ui/even-booking-system.git  
 - Email: syedatasmiya8421@gmail.com  
 
 ---
 
 ## 🌐 Projects
 Check out my work here:  
-https://github.com/yourusername  
+https://github.com/stasmiya740-ui/even-booking-system.git  
 
 ---
 
